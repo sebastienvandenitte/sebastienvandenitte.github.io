@@ -37,9 +37,19 @@
         /* Styling for contact icons */
         .contact-icons {
             display: flex;
-            justify-content: center;
-            gap: 25px;
+            flex-direction: column;
+            align-items: center;
             margin-top: 20px;
+            gap: 15px;
+        }
+
+        .icon-row {
+            display: flex;
+            gap: 25px;
+        }
+
+        .contact-item {
+            text-align: center;
         }
 
         .contact-icons a {
@@ -51,10 +61,6 @@
         .contact-icons p {
             margin-top: 5px;
             font-size: 0.9em;
-        }
-
-        .contact-item {
-            text-align: center;
         }
     </style>
 </head>
@@ -94,32 +100,40 @@
             
             <!-- Contact icons below the picture -->
             <div class="contact-icons">
-                <div class="contact-item">
-                    <a href="mailto:your.email@example.com" title="Email">
-                        <i class="fas fa-envelope"></i>
-                    </a>
-                    <p>Email</p>
+                <!-- First row of icons -->
+                <div class="icon-row">
+                    <div class="contact-item">
+                        <a href="mailto:your.email@example.com" title="Email">
+                            <i class="fas fa-envelope"></i>
+                        </a>
+                        <p>Email</p>
+                    </div>
+                    <div class="contact-item">
+                        <a href="https://scholar.google.com/citations?user=ZX-ybw0AAAAJ&hl=en" target="_blank" title="Google Scholar">
+                            <i class="fas fa-graduation-cap"></i>
+                        </a>
+                        <p>Google Scholar</p>
+                    </div>
                 </div>
-                <div class="contact-item">
-                    <a href="https://orcid.org/your-orcid-id" target="_blank" title="ORCID">
-                        <i class="fab fa-orcid"></i>
-                    </a>
-                    <p>ORCID</p>
-                </div>
-                <div class="contact-item">
-                    <a href="https://scholar.google.com/citations?user=ZX-ybw0AAAAJ&hl=en" target="_blank" title="Google Scholar">
-                        <i class="fas fa-graduation-cap"></i>
-                    </a>
-                    <p>Google Scholar</p>
-                </div>
-                <div class="contact-item">
-                    <a href="https://www.jyu.fi/fi/henkilot/sebastien-vandenitte" target="_blank" title="Work Webpage">
-                        <i class="fas fa-briefcase"></i>
-                    </a>
-                    <p>Work Webpage</p>
+
+                <!-- Second row of icons -->
+                <div class="icon-row">
+                    <div class="contact-item">
+                        <a href="https://orcid.org/your-orcid-id" target="_blank" title="ORCID">
+                            <i class="fab fa-orcid"></i>
+                        </a>
+                        <p>ORCID</p>
+                    </div>
+                    <div class="contact-item">
+                        <a href="https://www.jyu.fi/fi/henkilot/sebastien-vandenitte" target="_blank" title="Work Webpage">
+                            <i class="fas fa-briefcase"></i>
+                        </a>
+                        <p>Work Webpage</p>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 </body>
 </html>
+
