@@ -12,26 +12,49 @@
             text-align: justify;
         }
         ul {
-            list-style-type: disc; /* Enables bullet points */
-            padding-left: 20px; /* Adds indentation to the list items */
+            list-style-type: disc;
+            padding-left: 20px;
         }
 
         /* New styling for text and image layout */
         .content-wrapper {
             display: flex;
             align-items: flex-start;
-            gap: 55px; /* Increased gap for more space between text and image */
+            gap: 55px;
         }
 
         .text-content {
-            flex: 1; /* Take up available space */
+            flex: 1;
         }
 
         .image-content img {
-            max-width: 200px; /* Adjust size as needed */
+            max-width: 200px;
             height: auto;
-            border-radius: 10px; /* Optional: Adds rounded corners */
-            margin-top: 40px; /* Lowers the image on the vertical axis */
+            border-radius: 10px;
+            margin-top: 40px;
+        }
+
+        /* Styling for contact icons */
+        .contact-icons {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            margin-top: 20px;
+        }
+
+        .contact-icons a {
+            text-decoration: none;
+            color: inherit;
+            font-size: 1.5em;
+        }
+
+        .contact-icons p {
+            margin-top: 5px;
+            font-size: 0.9em;
+        }
+
+        .contact-item {
+            text-align: center;
         }
     </style>
 </head>
@@ -43,8 +66,6 @@
             <a href="publications.html">Publications</a>
             <a href="Other dissemination">Other dissemination</a>
             <a href="Contact">Contact</a>
-
-
         </nav>
     </header>
     
@@ -70,8 +91,35 @@
         <!-- Image Content -->
         <div class="image-content">
             <img src="https://raw.githubusercontent.com/sebastienvandenitte/sebastienvandenitte.github.io/main/VANDENITTE_Sebastien.jpg" alt="Sebastien Vandenitte">
+            
+            <!-- Contact icons below the picture -->
+            <div class="contact-icons">
+                <div class="contact-item">
+                    <a href="mailto:your.email@example.com" title="Email">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <p>Email</p>
+                </div>
+                <div class="contact-item">
+                    <a href="https://orcid.org/your-orcid-id" target="_blank" title="ORCID">
+                        <i class="fab fa-orcid"></i>
+                    </a>
+                    <p>ORCID</p>
+                </div>
+                <div class="contact-item">
+                    <a href="https://scholar.google.com/citations?user=ZX-ybw0AAAAJ&hl=en" target="_blank" title="Google Scholar">
+                        <i class="fas fa-graduation-cap"></i>
+                    </a>
+                    <p>Google Scholar</p>
+                </div>
+                <div class="contact-item">
+                    <a href="https://www.jyu.fi/fi/henkilot/sebastien-vandenitte" target="_blank" title="Work Webpage">
+                        <i class="fas fa-briefcase"></i>
+                    </a>
+                    <p>Work Webpage</p>
+                </div>
+            </div>
         </div>
-
+    </section>
 </body>
 </html>
-
