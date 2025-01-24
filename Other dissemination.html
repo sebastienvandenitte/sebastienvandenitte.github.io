@@ -14,11 +14,34 @@
             list-style-type: none; /* Removes all bullet points */
             padding-left: 0; /* Keeps indentation consistent */
         }
-       
+         #menu {
+            position: fixed; /* Keeps the menu in a fixed position */
+            top: 150px; /* Adjusts vertical placement */
+            left: 10px;
+            font-weight: bold; /* Makes the text bold */
+            display: inline-block; /* Ensures the menu only takes up the space it needs */
+            background: none; /* Removes any unintended background */
+            border: none; /* Removes any border that may appear */
+            padding: 0; /* Removes any extra padding */
+            margin: 0; /* Removes any extra margin */
+        }
+        #menu a {
+            display: block;
+            color: #003366; /* Dark blue */
+            text-decoration: none;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        #menu a:hover {
+            text-decoration: underline;
+        }
         h3 {
             color: #003366;
             margin-top: 50px; /* Adds space above each subsection */
         }
+
+
+        
     </style>
 </head>
 <body>
@@ -30,6 +53,12 @@
             <a href="Other dissemination">Other dissemination</a>
         </nav>
     </header>
+
+    <div id="menu">
+        <a href="#conference-presentations">Conference Presentations</a>
+        <a href="#posters">Posters</a>
+        <a href="#other">Other</a>
+    </div>
 
 
     <section>
