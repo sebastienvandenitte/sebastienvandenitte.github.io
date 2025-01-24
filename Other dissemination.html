@@ -9,10 +9,34 @@
         /* Additional inline styles for this page */
         body {
             text-align: justify;
+            margin-left: 200px; /* Prevent content from overlapping with the menu */
         }
         ul {
             list-style-type: none; /* Removes all bullet points */
             padding-left: 0; /* Keeps indentation consistent */
+        }
+        #menu {
+            position: fixed; /* Keeps the menu in the top-left corner */
+            top: 10px;
+            left: 10px;
+            background-color: #f8f9fa; /* Light gray background */
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        #menu a {
+            display: block;
+            color: #003366; /* Dark blue */
+            text-decoration: none;
+            margin-bottom: 10px;
+            font-size: 14px;
+        }
+        #menu a:hover {
+            text-decoration: underline;
+        }
+        h3 {
+            color: #003366;
         }
     </style>
 </head>
@@ -23,17 +47,21 @@
             <a href="index.html">Home</a>
             <a href="publications.html">Publications</a>
             <a href="Other dissemination">Other dissemination</a>
-
         </nav>
     </header>
+
+    <!-- Navigation Menu -->
+    <div id="menu">
+        <strong>Quick Navigation</strong>
+        <a href="#conference-presentations">Conference Presentations</a>
+        <a href="#posters">Posters</a>
+        <a href="#other">Other</a>
+    </div>
+
     <section>
-
-
-        <h3 style="color: #003366;">Conference Presentations</h3>
-
+        <!-- Conference Presentations Section -->
+        <h3 id="conference-presentations" style="color: #003366;">Conference Presentations</h3>
         <ul>
-
-
 <li style="margin-bottom: 15px;">
    Vandenitte, S. <strong>Setting Stories in Motion: Investigating the Kinematics of Finnish Sign Language Narratives with Motion Capture</strong> <em>(Nordic Speech Forum online seminar, 11 November 2024)</em>
 </li>
@@ -89,11 +117,11 @@
 <li style="margin-bottom: 15px;">
     Vandenitte, S. <strong>Une approche pragmatique du transfert personnel en langues des signes: La construction du discours et de l’action à visée illustrative (A Pragmatic Approach to Personal Transfer in Signed Languages: The Construction of Discourse and Action with an Illustrative Intent)</strong> <em>(Linguistic Society of Belgium’s 2018 Linguists’ Day, University of Liège, 25 May 2018)</em>
 </li>
+        </ul>
 
-
-            
-        <h3 style="color: #003366;">Posters</h3>
-
+        <!-- Posters Section -->
+        <h3 id="posters" style="color: #003366;">Posters</h3>
+        <ul>
  <li style="margin-bottom: 15px;">
     <u>Vandenitte, S.</u>, Puupponen, A., Hernández, D., & Jantunen, T. <strong>Comparing the Kinematics of Plain Telling and Constructed Dialogue in Signed Discourse: A Motion-Capture Study of FinSL Narratives</strong> <em>(TISLR [Theoretical Issues in Sign Language Research] 2025, University of Addis Ababa, 14 January 2025)</em>
      <a href="https://raw.githubusercontent.com/sebastienvandenitte/sebastienvandenitte.github.io/main/s_vandenitte_poster_v3.pdf" target="_blank">[Link to poster]</a>
@@ -109,11 +137,12 @@
     <a href="https://raw.githubusercontent.com/sebastienvandenitte/sebastienvandenitte.github.io/main/ISGS_poster.pdf" target="_blank">[Link to the poster]</a>
 </li>
 
+        </ul>
 
-            
-        <h3 style="color: #003366;">Other</h3>
-            
-   <li style="margin-bottom: 15px;">
+        <!-- Other Section -->
+        <h3 id="other" style="color: #003366;">Other</h3>
+        <ul>
+ <li style="margin-bottom: 15px;">
     Vandenitte, S. <strong>Comparing constructed action across (signing and speaking) communities: Broadening the sample but also our conceptual toolbox</strong> <em>(A workshop on/under construction: Annotating and operationalizing enactment and constructed action, KULeuven, Antwerpen, 19 March 2023)</em>
 </li>
 
@@ -148,9 +177,7 @@
 <li style="margin-bottom: 15px;">
     Meurant, L., Fonzé, S., Lepeut, A., <u>Vandenitte, S.</u>, & Heylens, A. <strong>And in Namur, what counts as one annotation?</strong> <em>(EURASIGN Workshop: Comparative Approaches on European Sign Languages, Universiteit Gent, 21 November 2019)</em>
 </li>
-
-    
-
+        </ul>
     </section>
 </body>
 </html>
