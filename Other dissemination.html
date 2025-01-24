@@ -17,9 +17,14 @@
         }
         #menu {
             position: fixed; /* Keeps the menu in a fixed position */
-            top: 150px; /* Moves the menu even lower vertically */
+            top: 150px; /* Adjusts vertical placement */
             left: 10px;
-            
+            font-weight: bold; /* Makes the text bold */
+            display: inline-block; /* Ensures the menu only takes up the space it needs */
+            background: none; /* Removes any unintended background */
+            border: none; /* Removes any border that may appear */
+            padding: 0; /* Removes any extra padding */
+            margin: 0; /* Removes any extra margin */
         }
         #menu a {
             display: block;
@@ -27,7 +32,6 @@
             text-decoration: none;
             margin-bottom: 10px;
             font-size: 14px;
-            font-weight: bold; /* Makes the text bold */
         }
         #menu a:hover {
             text-decoration: underline;
