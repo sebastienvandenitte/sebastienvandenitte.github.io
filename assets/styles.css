@@ -1,4 +1,13 @@
 body {
+    background-image: url('assets/thumbnail_IMG_9004.jpg');
+    background-size: cover; /* Ensures the image covers the entire screen */
+    background-position: center;
+    background-attachment: fixed; /* Keeps the image fixed while scrolling */
+    background-repeat: no-repeat;
+}
+
+
+body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
