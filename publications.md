@@ -30,7 +30,7 @@ permalink: /publications/
 
 - *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis.* In 2024 International Conference on IT and Industrial Technologies (ICIT). IEEE. [Published article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10859486)
 
-- *Lepeut, A., Lombart, C., Vandenitte, S., & Meurant, L. (2024). Spoken and signed languages hand in hand: parallel and directly comparable corpora of French Belgian Sign Language (LSFB) and French.* Corpora, 19(2), 241-253. [Published article](https://doi.org/10.3366/cor.2024.0309) [Accepted manuscript](https://researchportal.unamur.be/files/87700154/Lepeut_Lombart_Vandenitte_and_Meurant_2024_Corpora_Spoken_and_Signed_Languages_Hand_in_Hand.pdf)
+- *Lepeut, A., Lombart, C., Vandenitte, S., & Meurant, L. (2024). Spoken and signed languages hand in hand: parallel and directly comparable corpora of French Belgian Sign Language (LSFB) and French.* Corpora, 19(2), 241-253. [Published article](https://doi.org/10.3366/cor.2024.0309) / [Accepted manuscript](https://researchportal.unamur.be/files/87700154/Lepeut_Lombart_Vandenitte_and_Meurant_2024_Corpora_Spoken_and_Signed_Languages_Hand_in_Hand.pdf)
 
 - *Vandenitte, S. (2024). Making Referents Seen and Heard: Comparing constructed action practices in LSFB (French Belgian Sign Language) and Belgian French.* [PhD Thesis manuscript](https://researchportal.unamur.be/files/102803119/VandenitteSebastien_2024_these.pdf)
 
@@ -38,7 +38,7 @@ permalink: /publications/
 
 ## 2023
 
-- *Vandenitte, S. (2023). When referents are seen and heard: A comparative study of constructed action in the discourse of LSFB (French Belgian Sign Language) signers and Belgian French speakers.* In L. Gardelle, L. Vincent-Durroux, & H. Vinckel-Roisin (Eds.), *Studies in Language Companion Series: From conventions to pragmatics* (pp. 127 - 149). (Studies in Language Companion Series; Vol. 228). [Published chapter](https://doi.org/10.1075/slcs.228.07van) [Accepted manuscript](https://researchportal.unamur.be/files/106388165/Vandenitte_2023_Reference_accepted.pdf)
+- *Vandenitte, S. (2023). When referents are seen and heard: A comparative study of constructed action in the discourse of LSFB (French Belgian Sign Language) signers and Belgian French speakers.* In L. Gardelle, L. Vincent-Durroux, & H. Vinckel-Roisin (Eds.), *Studies in Language Companion Series: From conventions to pragmatics* (pp. 127 - 149). (Studies in Language Companion Series; Vol. 228). [Published chapter](https://doi.org/10.1075/slcs.228.07van) / [Accepted manuscript](https://researchportal.unamur.be/files/106388165/Vandenitte_2023_Reference_accepted.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ permalink: /publications/
 
 - *Vandenitte, S. (2022). Making referents seen and heard across signed and spoken languages: Documenting and interpreting cross-modal differences in the use of enactment.* Frontiers in Psychology, 13, 784339. [Open access published article](https://doi.org/10.3389/fpsyg.2022.784339)
 
-- *Vandenitte, S. (2022). Showing where you stand: The depictive potential of the lexical sign LS in LSFB conversations about language attitudes.* Belgian Journal of Linguistics, 36(1), 46-72. [Published article](https://doi.org/10.1075/bjl.00071.van) [Accepted manuscript](https://researchportal.unamur.be/files/106275798/Vandenitte_2022_BJL_accepted.pdf)
+- *Vandenitte, S. (2022). Showing where you stand: The depictive potential of the lexical sign LS in LSFB conversations about language attitudes.* Belgian Journal of Linguistics, 36(1), 46-72. [Published article](https://doi.org/10.1075/bjl.00071.van) / [Accepted manuscript](https://researchportal.unamur.be/files/106275798/Vandenitte_2022_BJL_accepted.pdf)
 
 ---
 
