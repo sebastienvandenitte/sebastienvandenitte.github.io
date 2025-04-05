@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- Spring 2025: University of Jyväskylä: *Research on Phonetics of Sign Languages* (SVKS1013)
+- Spring 2025: University of Jyväskylä: *Research on Phonetics of Sign Languages* (SVKS1013, taught with Dr. Anna Puupponen)
   
 - 24-28 March 2025: UCLouvain Saint-Louis Brussels: *teaching mobility* (Signed language: interpreting; Signed language: introduction to translation & interpreting)
   
