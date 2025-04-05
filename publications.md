@@ -22,14 +22,16 @@ permalink: /publications/
 
 ## 2025
 
-- *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted). Neuroelectrical and behavioral correlates of constructed action recognition in Finnish Sign Language.* Neuroscience. [Open access published article]
+- *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted). Neuroelectrical and behavioral correlates of constructed action recognition in Finnish Sign Language.* Neuroscience. [Open access published article] (https://doi.org/10.1016/j.neuroscience.2025.03.046)
 
 ---
 
 ## 2024
 
 - *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis.* In 2024 International Conference on IT and Industrial Technologies (ICIT). IEEE. [Published article]
+
 - *Lepeut, A., Lombart, C., Vandenitte, S., & Meurant, L. (2024). Spoken and signed languages hand in hand: parallel and directly comparable corpora of French Belgian Sign Language (LSFB) and French.* Corpora, 19(2), 241-253. [Published article] [Accepted manuscript]
+
 - *Vandenitte, S. (2024). Making Referents Seen and Heard: Comparing constructed action practices in LSFB (French Belgian Sign Language) and Belgian French.* [Doctoral dissertation]. [Thesis manuscript]
 
 ---
@@ -43,6 +45,7 @@ permalink: /publications/
 ## 2022
 
 - *Vandenitte, S. (2022). Making referents seen and heard across signed and spoken languages: Documenting and interpreting cross-modal differences in the use of enactment.* Frontiers in Psychology, 13, 784339. [Open access published article]
+
 - *Vandenitte, S. (2022). Showing where you stand: The depictive potential of the lexical sign LS in LSFB conversations about language attitudes.* Belgian Journal of Linguistics, 36(1), 46-72. [Published article] [Accepted manuscript]
 
 ---
@@ -50,6 +53,7 @@ permalink: /publications/
 ## 2021
 
 - *Vandenitte, S. (2021). Construire l’action pour rendre les référents visibles en LSFB: Une étude pilote des mouvements corporels dépictifs.* In S. Vandenitte, A. Lepeut, & L. Meurant (Eds.), *Travaux du Cercle belge de linguistique* (Vol. 15). [Open access online article]
+
 - *Vandenitte, S., Lepeut, A., & Meurant, L. (Eds.). (2021). Travaux du Cercle belge de linguistique* (Vol. 15). [Open access online volume]
 
 ---
