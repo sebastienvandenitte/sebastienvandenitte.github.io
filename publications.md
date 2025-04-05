@@ -22,7 +22,7 @@ permalink: /publications/
 
 ## 2025
 
-- *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted). Neuroelectrical and behavioral correlates of constructed action recognition in Finnish Sign Language.* Neuroscience. [Open access published article] (https://doi.org/10.1016/j.neuroscience.2025.03.046)
+- *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted). Neuroelectrical and behavioral correlates of constructed action recognition in Finnish Sign Language.* Neuroscience. [Open access published article](https://doi.org/10.1016/j.neuroscience.2025.03.046)
 
 ---
 
