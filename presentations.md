@@ -28,7 +28,7 @@ permalink: /presentations/
 
 ## Posters
 
-- **Vandenitte, S., Puupponen, A., Hernández, D., & Jantunen, T.** Comparing the Kinematics of Plain Telling and Constructed Dialogue in Signed Discourse: A Motion-Capture Study of FinSL Narratives (TISLR [Theoretical Issues in Sign Language Research] 2025, University of Addis Ababa, 14 January 2025) [Link to poster](#)
+- **Vandenitte, S., Puupponen, A., Hernández, D., & Jantunen, T.** Comparing the Kinematics of Plain Telling and Constructed Dialogue in Signed Discourse: A Motion-Capture Study of FinSL Narratives (TISLR [Theoretical Issues in Sign Language Research] 2025, University of Addis Ababa, 14 January 2025) [Link to poster](https://github.com/sebastienvandenitte/sebastienvandenitte/blob/main/assets/FinSLCD_poster.jpg)
 - **Vandenitte, S., Puupponen, A., Wainio, T., & Jantunen, T.** One and the same or two of a kind ? Comparing constructed action in FinSL and LSFB narratives (SignCAFE [Cognitive and Functional Approaches to Sign Language Linguistics] 2, Università degli Studi di Catania, 14 October 2022) [Link to the poster](#)
 - **Vandenitte, S.** (Re-)constructing words and gestures in Belgian French: A multimodal look at utterance reports in the FRAPé Corpus (International Society of Gesture Studies Conference, University of Chicago, 13 July 2022) [Link to the poster](#)
 
