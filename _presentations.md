@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Dissemination
-permalink: /dissemination/
+title: Presentations
+permalink: /Presentations/
 ---
 
 ### Go to
