@@ -5,7 +5,7 @@ permalink: /presentations/
 ---
 
 ### Go to
-- [Conferences presentatios](#conferences-presentations)
+- [Conferences presentations](#conferences-presentations)
 - [Posters](#posters)
 - [Other presentations](#other-presentations)
 - [Wider outreach](#wider-outreach)
