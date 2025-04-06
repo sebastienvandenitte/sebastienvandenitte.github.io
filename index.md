@@ -24,7 +24,7 @@ I hold BA and MA degrees from [Université Libre de Bruxelles](https://www.ulb.b
 </div>
 
 <div style="flex: 0 0 250px; max-width: 100%;">
-  <img src="/assets/photo.jpg" alt="Photo of Sébastien Vandenitte" style="width: 100%; border-radius: 12px;" />
+  <img src="/assets/my-photo.jpg" alt="Photo of Sébastien Vandenitte" style="width: 100%; border-radius: 12px;" />
 </div>
 
 </div>
