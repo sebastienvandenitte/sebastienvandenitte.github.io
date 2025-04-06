@@ -11,7 +11,7 @@ title: Home
 
 <!-- Right column with image -->
 <div style="flex: 1; max-width: 250px;">
-  <img src="/assets/images/sebastien.jpg" alt="Photo of Sébastien Vandenitte" style="width: 100%; border-radius: 12px;" />
+  <img src="/assets/images/my-photo.jpg" alt="Photo of Sébastien Vandenitte" style="width: 100%; border-radius: 12px;" />
 </div>
 
 </div>
