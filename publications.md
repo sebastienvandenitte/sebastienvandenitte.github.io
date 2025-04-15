@@ -28,8 +28,8 @@ permalink: /publications/
 
 ## 2024
 
-[- *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis.* In 2024 International Conference on IT and Industrial Technologies (ICIT). IEEE. [Published article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10859486)
-](https://github.com/sebastienvandenitte/sebastienvandenitte.github.io/raw/main/assets/ICIT_2024_Paper_221_Verified.pdf)
+- *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis.* In 2024 International Conference on IT and Industrial Technologies (ICIT). IEEE. [Published article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10859486)
+(https://github.com/sebastienvandenitte/sebastienvandenitte.github.io/raw/main/assets/ICIT_2024_Paper_221_Verified.pdf)
 
 - *Lepeut, A., Lombart, C., Vandenitte, S., & Meurant, L. (2024). Spoken and signed languages hand in hand: parallel and directly comparable corpora of French Belgian Sign Language (LSFB) and French.* Corpora, 19(2), 241-253. [Published article](https://doi.org/10.3366/cor.2024.0309) / [Accepted manuscript](https://researchportal.unamur.be/files/87700154/Lepeut_Lombart_Vandenitte_and_Meurant_2024_Corpora_Spoken_and_Signed_Languages_Hand_in_Hand.pdf)
 
