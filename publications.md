@@ -16,6 +16,8 @@ permalink: /publications/
 
 ## Upcoming
 
+- *Vandenitte, S., Puupponen, A., Hernández, D., Anible, B. & Jantunen, T. (in preparation). The Kinematics of Composite Stories: A motion-capture study of manual telling sequences with varying degrees of constructed action in Finnish Sign Language narratives.* 
+
 - *Lepeut, A., Lombart, C., Vandenitte, S. & Meurant, L. (in press). Make it a Double: The Building and Use of the LSFB and FRAPé Corpora to Study and Compare French Belgian Sign Language and Belgian French.* In T. Leuschner, A. Vajnovszki, G. Delaby & J. Barðdal (Eds.), *How to Do Things with Corpora: Methodological Issues and Case Studies on Grammar*.
 
 ---
