@@ -5,7 +5,7 @@ title: Home
 
 <div style="display: flex; align-items: center; gap: 1.5rem; flex-wrap: wrap;">
 
-  <img src="/assets/me.jpg" alt="Sébastien Vandenitte" style="width: 100px; border-radius: 50%; flex-shrink: 0;">
+  <img src="/assets/my-photo.jpg" alt="Sébastien Vandenitte" style="width: 100px; border-radius: 50%; flex-shrink: 0;">
 
   <div>
     My name is Sébastien Vandenitte. I am a postdoctoral researcher at the 
