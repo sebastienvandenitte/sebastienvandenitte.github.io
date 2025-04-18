@@ -1,8 +1,7 @@
 ---
-layout: home
-title: Home
+layout: 
+title: 
 ---
-## About
 My name is Sébastien Vandenitte. I am a postdoctoral researcher at the [Sign Language Centre](https://www.jyu.fi/en/humsoc/kivi/sign-language-centre) of the [University of Jyväskylä](https://www.jyu.fi/en), Finland. 
 
 I hold BA and MA degrees from [Université Libre de Bruxelles](https://www.ulb.be/en/ulb-homepage) and PhD degree from the [LSFB-Lab](https://www.unamur.be/en/entity/laboratoire-de-langue-des-signes-de-belgique-francophone) of the [Université de Namur](http://www.unamur.be/en), Belgium.
