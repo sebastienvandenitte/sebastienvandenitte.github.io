@@ -1,6 +1,6 @@
 ---
 layout: Home
-title: Home
+title: 
 ---
 My name is Sébastien Vandenitte. I am a postdoctoral researcher at the [Sign Language Centre](https://www.jyu.fi/en/humsoc/kivi/sign-language-centre) of the [University of Jyväskylä](https://www.jyu.fi/en), Finland. 
 
