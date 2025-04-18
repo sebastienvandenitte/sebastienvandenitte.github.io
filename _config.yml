@@ -2,12 +2,3 @@ title: Sébastien Vandenitte
 description: 
 theme: minima
 footer_links: false
-
-include:
-  - assets
-
-# Enable custom head include
-plugins:
-  - jekyll-include-cache
-
-# Optional: if you want to use any other custom includes
