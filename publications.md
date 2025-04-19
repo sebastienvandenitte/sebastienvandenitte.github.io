@@ -4,75 +4,74 @@ title: Publications
 permalink: /publications/
 ---
 
-<div style="display: flex; gap: 2rem;">
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start;">
 
-  <!-- Sidebar menu -->
-  <nav style="min-width: 180px; border-right: 1px solid #ccc; padding-right: 1rem;">
-    <h3>Go to</h3>
-    <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
-      <li><a href="#upcoming">Upcoming</a></li>
-      <li><a href="#2025">2025</a></li>
-      <li><a href="#2024">2024</a></li>
-      <li><a href="#2023">2023</a></li>
-      <li><a href="#2022">2022</a></li>
-      <li><a href="#2021">2021</a></li>
-      <li><a href="#2019">2019</a></li>
-    </ul>
-  </nav>
+<!-- Sidebar -->
+<nav style="min-width: 180px; flex: 0 0 auto; border-right: 1px solid #ccc; padding-right: 1rem;">
+  <h3>Go to</h3>
+  <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
+    <li><a href="#upcoming">Upcoming</a></li>
+    <li><a href="#2025">2025</a></li>
+    <li><a href="#2024">2024</a></li>
+    <li><a href="#2023">2023</a></li>
+    <li><a href="#2022">2022</a></li>
+    <li><a href="#2021">2021</a></li>
+    <li><a href="#2019">2019</a></li>
+  </ul>
+</nav>
 
-  <!-- Main content -->
-  <div>
+<!-- Main content -->
+<div style="flex: 1 1 auto; min-width: 0;">
 
-### <a id="upcoming">Upcoming</a>
+## <a id="upcoming">Upcoming</a>
 
-- *Vandenitte, S., Puupponen, A., Hernández, D., Anible, B. & Jantunen, T. (in preparation). The Kinematics of Composite Stories: A motion-capture study of manual telling sequences with varying degrees of constructed action in Finnish Sign Language narratives.* 
+- *Vandenitte, S., Puupponen, A., Hernández, D., Anible, B. & Jantunen, T. (in preparation). The Kinematics of Composite Stories...*
 
-- *Lepeut, A., Lombart, C., Vandenitte, S. & Meurant, L. (in press). Make it a Double: The Building and Use of the LSFB and FRAPé Corpora to Study and Compare French Belgian Sign Language and Belgian French.* In T. Leuschner, A. Vajnovszki, G. Delaby & J. Barðdal (Eds.), *How to Do Things with Corpora: Methodological Issues and Case Studies on Grammar*.
-
----
-
-### <a id="2025">2025</a>
-
-- *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted). Neuroelectrical and behavioral correlates of constructed action recognition in Finnish Sign Language.* Neuroscience. [Published article](https://doi.org/10.1016/j.neuroscience.2025.03.046)
+- *Lepeut, A., Lombart, C., Vandenitte, S. & Meurant, L. (in press). Make it a Double...*
 
 ---
 
-### <a id="2024">2024</a>
+## <a id="2025">2025</a>
 
-- *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis.* In 2024 International Conference on IT and Industrial Technologies (ICIT). IEEE. [Accepted manuscript](https://github.com/sebastienvandenitte/sebastienvandenitte.github.io/raw/main/assets/ICIT_2024_Paper_221_Verified.pdf)
-  
-- *Lepeut, A., Lombart, C., Vandenitte, S., & Meurant, L. (2024). Spoken and signed languages hand in hand: parallel and directly comparable corpora of French Belgian Sign Language (LSFB) and French.* Corpora, 19(2), 241-253. [Published article](https://doi.org/10.3366/cor.2024.0309) / [Accepted manuscript](https://researchportal.unamur.be/files/87700154/Lepeut_Lombart_Vandenitte_and_Meurant_2024_Corpora_Spoken_and_Signed_Languages_Hand_in_Hand.pdf)
-
-- *Vandenitte, S. (2024). Making Referents Seen and Heard: Comparing constructed action practices in LSFB (French Belgian Sign Language) and Belgian French.* [PhD Thesis manuscript](https://researchportal.unamur.be/files/102803119/VandenitteSebastien_2024_these.pdf)
+- *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted)...* [Published article](https://doi.org/10.1016/j.neuroscience.2025.03.046)
 
 ---
 
-### <a id="2023">2023</a>
+## <a id="2024">2024</a>
 
-- *Vandenitte, S. (2023). When referents are seen and heard: A comparative study of constructed action in the discourse of LSFB (French Belgian Sign Language) signers and Belgian French speakers.* In L. Gardelle, L. Vincent-Durroux, & H. Vinckel-Roisin (Eds.), *Studies in Language Companion Series: From conventions to pragmatics* (pp. 127 - 149). (Studies in Language Companion Series; Vol. 228). [Published chapter](https://doi.org/10.1075/slcs.228.07van) / [Accepted manuscript](https://researchportal.unamur.be/files/106388165/Vandenitte_2023_Reference_accepted.pdf)
+- *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024)...* [Accepted manuscript](https://github.com/sebastienvandenitte/sebastienvandenitte.github.io/raw/main/assets/ICIT_2024_Paper_221_Verified.pdf)
 
----
+- *Lepeut, A., Lombart, C., Vandenitte, S., & Meurant, L. (2024)...* [Published article](https://doi.org/10.3366/cor.2024.0309)
 
-### <a id="2022">2022</a>
-
-- *Vandenitte, S. (2022). Making referents seen and heard across signed and spoken languages: Documenting and interpreting cross-modal differences in the use of enactment.* Frontiers in Psychology, 13, 784339. [Open access published article](https://doi.org/10.3389/fpsyg.2022.784339)
-
-- *Vandenitte, S. (2022). Showing where you stand: The depictive potential of the lexical sign LS in LSFB conversations about language attitudes.* Belgian Journal of Linguistics, 36(1), 46-72. [Published article](https://doi.org/10.1075/bjl.00071.van) / [Accepted manuscript](https://researchportal.unamur.be/files/106275798/Vandenitte_2022_BJL_accepted.pdf)
+- *Vandenitte, S. (2024). Making Referents Seen and Heard...* [PhD Thesis manuscript](https://researchportal.unamur.be/files/102803119/VandenitteSebastien_2024_these.pdf)
 
 ---
 
-### <a id="2021">2021</a>
+## <a id="2023">2023</a>
 
-- *Vandenitte, S. (2021). Construire l’action pour rendre les référents visibles en LSFB: Une étude pilote des mouvements corporels dépictifs.* In S. Vandenitte, A. Lepeut, & L. Meurant (Eds.), *Travaux du Cercle belge de linguistique* (Vol. 15). [Online article](https://researchportal.unamur.be/files/61839549/VAN_2021.pdf)
-
-- *Vandenitte, S., Lepeut, A., & Meurant, L. (Eds.). (2021). Travaux du Cercle belge de linguistique* (Vol. 15). [Online volume](https://sites.uclouvain.be/bkl-cbl/en/journals/papers-of-the-lsb/volume-15-2021/)
+- *Vandenitte, S. (2023). When referents are seen and heard...* [Published chapter](https://doi.org/10.1075/slcs.228.07van)
 
 ---
 
-### <a id="2019">2019</a>
+## <a id="2022">2022</a>
 
-- *Vandenitte, S. (2019). Une approche pragmatique du transfert personnel en langues des signes: La construction du discours et de l’action à visée illustrative.* In C. Béchet, L. Brems, & M. Steffens (Eds.), *Travaux du Cercle Belge de Linguistique* (Vol. 13). [Online article](https://researchportal.unamur.be/files/41621160/Une_approche_pragmatique_du_transfert_personnel_en_langues_des_signes_La_construction_du_discours_et_de_l_action_vis_e_illustrative_.pdf)
+- *Vandenitte, S. (2022). Making referents seen and heard...* [Open access published article](https://doi.org/10.3389/fpsyg.2022.784339)
 
-  </div>
+- *Vandenitte, S. (2022). Showing where you stand...* [Published article](https://doi.org/10.1075/bjl.00071.van)
+
+---
+
+## <a id="2021">2021</a>
+
+- *Vandenitte, S. (2021). Construire l’action pour rendre les référents visibles en LSFB...* [Online article](https://researchportal.unamur.be/files/61839549/VAN_2021.pdf)
+
+- *Vandenitte, S., Lepeut, A., & Meurant, L. (Eds.). (2021)...* [Online volume](https://sites.uclouvain.be/bkl-cbl/en/journals/papers-of-the-lsb/volume-15-2021/)
+
+---
+
+## <a id="2019">2019</a>
+
+- *Vandenitte, S. (2019). Une approche pragmatique du transfert personnel...* [Online article](https://researchportal.unamur.be/files/41621160/Une_approche_pragmatique_du_transfert_personnel_en_langues_des_signes_La_construction_du_discours_et_de_l_action_vis_e_illustrative_.pdf)
+
 </div>
-
+</div>
