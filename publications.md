@@ -4,17 +4,26 @@ title: Publications
 permalink: /publications/
 ---
 
-### Go to
-- [Upcoming](#upcoming)
-- [2025](#2025)
-- [2024](#2024)
-- [2023](#2023)
-- [2022](#2022)
-- [2021](#2021)
-- [2019](#2019)
+<div style="display: flex; gap: 2rem;">
 
+  <!-- Sidebar menu -->
+  <nav style="min-width: 180px; border-right: 1px solid #ccc; padding-right: 1rem;">
+    <h3>Go to</h3>
+    <ul style="list-style: none; padding-left: 0; line-height: 1.8;">
+      <li><a href="#upcoming">Upcoming</a></li>
+      <li><a href="#2025">2025</a></li>
+      <li><a href="#2024">2024</a></li>
+      <li><a href="#2023">2023</a></li>
+      <li><a href="#2022">2022</a></li>
+      <li><a href="#2021">2021</a></li>
+      <li><a href="#2019">2019</a></li>
+    </ul>
+  </nav>
 
-## Upcoming
+  <!-- Main content -->
+  <div>
+
+### <a id="upcoming">Upcoming</a>
 
 - *Vandenitte, S., Puupponen, A., Hernández, D., Anible, B. & Jantunen, T. (in preparation). The Kinematics of Composite Stories: A motion-capture study of manual telling sequences with varying degrees of constructed action in Finnish Sign Language narratives.* 
 
@@ -22,13 +31,13 @@ permalink: /publications/
 
 ---
 
-## 2025
+### <a id="2025">2025</a>
 
 - *Hernández, D., Puupponen, A., Keränen, J., Vandenitte, S., Anible, B., Ortega, G. & Jantunen, T. (accepted). Neuroelectrical and behavioral correlates of constructed action recognition in Finnish Sign Language.* Neuroscience. [Published article](https://doi.org/10.1016/j.neuroscience.2025.03.046)
 
 ---
 
-## 2024
+### <a id="2024">2024</a>
 
 - *Sargano, A. B., Vandenitte, S., Jantunen, T., & Kimmelman, V. (2024). Evaluation of Head Pose Estimation Algorithms for Sign Language Analysis.* In 2024 International Conference on IT and Industrial Technologies (ICIT). IEEE. [Accepted manuscript](https://github.com/sebastienvandenitte/sebastienvandenitte.github.io/raw/main/assets/ICIT_2024_Paper_221_Verified.pdf)
   
@@ -38,13 +47,13 @@ permalink: /publications/
 
 ---
 
-## 2023
+### <a id="2023">2023</a>
 
 - *Vandenitte, S. (2023). When referents are seen and heard: A comparative study of constructed action in the discourse of LSFB (French Belgian Sign Language) signers and Belgian French speakers.* In L. Gardelle, L. Vincent-Durroux, & H. Vinckel-Roisin (Eds.), *Studies in Language Companion Series: From conventions to pragmatics* (pp. 127 - 149). (Studies in Language Companion Series; Vol. 228). [Published chapter](https://doi.org/10.1075/slcs.228.07van) / [Accepted manuscript](https://researchportal.unamur.be/files/106388165/Vandenitte_2023_Reference_accepted.pdf)
 
 ---
 
-## 2022
+### <a id="2022">2022</a>
 
 - *Vandenitte, S. (2022). Making referents seen and heard across signed and spoken languages: Documenting and interpreting cross-modal differences in the use of enactment.* Frontiers in Psychology, 13, 784339. [Open access published article](https://doi.org/10.3389/fpsyg.2022.784339)
 
@@ -52,7 +61,7 @@ permalink: /publications/
 
 ---
 
-## 2021
+### <a id="2021">2021</a>
 
 - *Vandenitte, S. (2021). Construire l’action pour rendre les référents visibles en LSFB: Une étude pilote des mouvements corporels dépictifs.* In S. Vandenitte, A. Lepeut, & L. Meurant (Eds.), *Travaux du Cercle belge de linguistique* (Vol. 15). [Online article](https://researchportal.unamur.be/files/61839549/VAN_2021.pdf)
 
@@ -60,8 +69,10 @@ permalink: /publications/
 
 ---
 
-## 2019
+### <a id="2019">2019</a>
 
 - *Vandenitte, S. (2019). Une approche pragmatique du transfert personnel en langues des signes: La construction du discours et de l’action à visée illustrative.* In C. Béchet, L. Brems, & M. Steffens (Eds.), *Travaux du Cercle Belge de Linguistique* (Vol. 13). [Online article](https://researchportal.unamur.be/files/41621160/Une_approche_pragmatique_du_transfert_personnel_en_langues_des_signes_La_construction_du_discours_et_de_l_action_vis_e_illustrative_.pdf)
 
----
+  </div>
+</div>
+
