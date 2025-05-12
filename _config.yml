@@ -2,3 +2,7 @@ title: Sébastien Vandenitte
 description: 
 theme: minima
 footer_links: false
+en:
+  title: "My Website"
+fr:
+  title: "Mon Site"
