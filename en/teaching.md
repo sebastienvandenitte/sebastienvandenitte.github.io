@@ -10,4 +10,4 @@ permalink: /teaching/
   
 - 24-28 March 2025: UCLouvain Saint-Louis Brussels: *Erasmus+ staff training mobility*
   
-- 2019-2021: University of Namur: *Exercise sessions for English Language and Linguistics: Advanced Studies* (LANGB301)
+- 2019-2021: University of Namur: *Exercise sessions for English Language and Linguistics: Advanced Studies* (LANGB301, main professor: Pr. Lieven Vandelanotte)
