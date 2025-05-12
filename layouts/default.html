@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
+    <title>{{ page.title | escape }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
     <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
@@ -16,18 +16,6 @@
         {%- include navigation.html -%}
       </div>
     </header>
-
-    <!-- Language Switcher -->
-{%- assign current_lang = page.lang | default: "en" -%}
-
-<div style="text-align: right; margin-top: 1rem;">
-  {%- if current_lang == "en" -%}
-    <a href="{{ page.url | replace_first: '/en/', '/fr/' }}">FR</a>
-  {%- elsif current_lang == "fr" -%}
-    <a href="{{ page.url | replace_first: '/fr/', '/en/' }}">EN</a>
-  {%- endif -%}
-</div>
-
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
