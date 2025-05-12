@@ -10,7 +10,9 @@ layout: default
   {{ content }}
 
   <ul class="post-list">
-    {%- for post in site.posts -%}
+    {%- assign lang = page.lang | default: "en" -%}
+    {%- assign lang_posts = site.posts | where: "lang", lang -%}
+    {%- for post in lang_posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h2>
@@ -22,3 +24,4 @@ layout: default
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 </div>
+
