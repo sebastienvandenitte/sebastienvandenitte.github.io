@@ -18,15 +18,16 @@
     </header>
 
     <!-- Language Switcher -->
-    <div style="text-align: right; margin: 1rem; font-weight: bold;">
-      {% if page.url contains '/fr/' %}
-        <a href="{{ page.url | replace_first:'/fr/', '/en/' }}" style="text-decoration: none;">EN</a> |
-        <span style="text-decoration: underline;">FR</span>
-      {% elsif page.url contains '/en/' %}
-        <span style="text-decoration: underline;">EN</span> |
-        <a href="{{ page.url | replace_first:'/en/', '/fr/' }}" style="text-decoration: none;">FR</a>
-      {% endif %}
-    </div>
+{%- assign current_lang = page.lang | default: "en" -%}
+
+<div style="text-align: right; margin-top: 1rem;">
+  {%- if current_lang == "en" -%}
+    <a href="{{ page.url | replace_first: '/en/', '/fr/' }}">FR</a>
+  {%- elsif current_lang == "fr" -%}
+    <a href="{{ page.url | replace_first: '/fr/', '/en/' }}">EN</a>
+  {%- endif -%}
+</div>
+
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
