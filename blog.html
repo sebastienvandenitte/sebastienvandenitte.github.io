@@ -1,7 +1,47 @@
 ---
 layout: page
-title:
+title: Blog
 permalink: /blog
 ---
-<div style="display: flex; gap: 3rem; flex-wrap: wrap; align-items: flex-start;">
 
+<!-- Language Toggle -->
+<div style="margin-bottom: 1.5rem;">
+  <button onclick="showLanguage('en')">English</button>
+  <button onclick="showLanguage('fr')">Français</button>
+</div>
+
+<!-- Blog Section: English -->
+<div class="lang" id="lang-en">
+  <h1>Blog</h1>
+  <div style="display: flex; gap: 3rem; flex-wrap: wrap; align-items: flex-start;">
+    {% for post in site.posts %}
+      <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem;">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p><strong>{{ post.date | date: "%B %d, %Y" }}</strong></p>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Blog Section: French -->
+<div class="lang" id="lang-fr" style="display: none;">
+  <h1>Blogue</h1>
+  <div style="display: flex; gap: 3rem; flex-wrap: wrap; align-items: flex-start;">
+    {% for post in site.posts %}
+      <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem;">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p><strong>{{ post.date | date: "%d %B %Y" }}</strong></p>
+        <p>{{ post.excerpt }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<!-- Language Toggle Script -->
+<script>
+  function showLanguage(lang) {
+    document.querySelectorAll('.lang').forEach(el => el.style.display = 'none');
+    document.getElementById('lang-' + lang).style.display = 'block';
+  }
+</script>
