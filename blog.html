@@ -4,15 +4,14 @@ title: Blog
 permalink: /blog
 ---
 
-<!-- Language Toggle -->
-<div style="margin-bottom: 1.5rem;">
-  <button onclick="showLanguage('en')">English</button>
-  <button onclick="showLanguage('fr')">Français</button>
+<!-- Language Toggle at Top-Right -->
+<div style="position: sticky; top: 0; display: flex; justify-content: flex-end; background: white; padding: 1rem 0; z-index: 10;">
+  <button onclick="showLanguage('en')" style="margin-left: 0.5rem;">English</button>
+  <button onclick="showLanguage('fr')" style="margin-left: 0.5rem;">Français</button>
 </div>
 
-<!-- Blog Section: English -->
+<!-- Blog Content: English -->
 <div class="lang" id="lang-en">
-  <h1>Blog</h1>
   <div style="display: flex; gap: 3rem; flex-wrap: wrap; align-items: flex-start;">
     {% for post in site.posts %}
       <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem;">
@@ -24,9 +23,8 @@ permalink: /blog
   </div>
 </div>
 
-<!-- Blog Section: French -->
+<!-- Blog Content: French -->
 <div class="lang" id="lang-fr" style="display: none;">
-  <h1>Blogue</h1>
   <div style="display: flex; gap: 3rem; flex-wrap: wrap; align-items: flex-start;">
     {% for post in site.posts %}
       <div style="flex: 1 1 300px; border: 1px solid #ccc; padding: 1rem;">
@@ -38,10 +36,11 @@ permalink: /blog
   </div>
 </div>
 
-<!-- Language Toggle Script -->
+<!-- Language Switch Script -->
 <script>
   function showLanguage(lang) {
     document.querySelectorAll('.lang').forEach(el => el.style.display = 'none');
     document.getElementById('lang-' + lang).style.display = 'block';
   }
 </script>
+
