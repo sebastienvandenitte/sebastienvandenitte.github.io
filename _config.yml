@@ -3,3 +3,13 @@ description:
 theme: minima
 footer_links: false
 
+minima:
+  navigation:
+    - title: Home
+      url: /
+    - title: Publications
+      url: /publications.html
+    - title: Presentations
+      url: /presentations.html
+    - title: Teaching
+      url: /teaching.html
