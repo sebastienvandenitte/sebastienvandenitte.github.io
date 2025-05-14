@@ -1,15 +1,10 @@
 title: Sébastien Vandenitte
 description: 
-remote_theme: jekyll/minima
+theme: minima
 footer_links: false
 
-minima:
-  navigation:
-    - title: Home
-      url: /
-    - title: Publications
-      url: /publications.html
-    - title: Presentations
-      url: /presentations.html
-    - title: Teaching
-      url: /teaching.html
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
