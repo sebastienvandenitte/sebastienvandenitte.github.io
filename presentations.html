@@ -38,71 +38,6 @@ permalink: /presentations
     margin-left: -30px;
   }
 
-  .presentations-content h2 {
-    margin-top: 2rem;
-    padding-bottom: 0.5rem;
-    border-bottom: 1px solid #eee;
-  }
-
-  .presentations-content p {
-    margin-bottom: 1rem;
-  }
-</style>
-
-<div class="presentations-wrapper">
-
-  <!-- Sidebar -->
-  <nav class="presentations-sidebar">
-    <h3></h3>
-    <ul>
-      <li><a href="#conferences">Conferences</a></li>
-      <li><a href="#posters">Posters</a></li>
-      <li><a href="#other-presentations">Other presentations</a></li>
-    </ul>
-  </nav>
-
-  <!-- Main content -->
-  <div class="presentations-content">
----
-layout: page
-title: Presentations
-permalink: /presentations
----
-
-<style>
-
-  .presentations-wrapper {
-    display: flex;
-    gap: 3rem;
-    align-items: flex-start;
-  }
-
-  .presentations-sidebar {
-    flex: 0 0 200px;
-    margin-left: -200px; /* Adjust as needed */
-    position: sticky;
-    top: 2rem;
-    padding-right: 1rem;
-    border-right: 1px solid #ccc;
-  }
-
-  .presentations-sidebar ul {
-    list-style: none;
-    padding-left: 0;
-    line-height: 1.8;
-    font-size: 0.95rem;
-  }
-
-  .presentations-sidebar li a {
-    text-decoration: none;
-  }
-
-  .presentations-content {
-    flex: 1;
-    min-width: 0;
-    margin-left: -30px;
-  }
-
   .presentations-content h2,
   .presentations-content h3 {
     margin-top: 2rem;
@@ -127,12 +62,21 @@ permalink: /presentations
 
   <!-- Sidebar -->
   <nav class="presentations-sidebar">
+    <h3></h3>
     <ul>
       <li><a href="#conferences">Conferences</a></li>
       <li><a href="#posters">Posters</a></li>
       <li><a href="#other-presentations">Other presentations</a></li>
     </ul>
   </nav>
+
+  <!-- Main content -->
+  <div class="presentations-content">
+---
+layout: page
+title: Presentations
+permalink: /presentations
+---
 
   <!-- Main content -->
   <div class="presentations-content">
