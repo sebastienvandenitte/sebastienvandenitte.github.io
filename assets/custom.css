@@ -1,26 +1,5 @@
-body {
-  background-image: url('/assets/thumbnail_IMG_5850.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
+/* Make the site title green */
+.site-title {
+  color: green;
 }
 
-/* Custom CSS for Minima theme */
-body {
-    background-color: #D5E8D4; /* Light Green */
-    color: #333; /* Dark text for readability */
-}
-
-header, footer {
-    background-color: #A8D5BA; /* Soft Green */
-    color: #fff; /* White text */
-}
-
-a {
-    color: #6B8E23; /* Olive Green */
-}
-
-a:hover {
-    color: #A8D5BA; /* Soft Green */
-}
